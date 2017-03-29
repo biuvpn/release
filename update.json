@@ -1,0 +1,21 @@
+{
+    "name":"biuvpn",
+    "darwin":{
+      "buildno":201703291153,
+      "url":"https://raw.githubusercontent.com/biuvpn/release/master/darwin_98f9.bin",
+      "hash":"98f9d6c2b93443e1d85a78820681381dc872b8f30a5b6dded42c334778394e8d",
+      "changelog":"没有"
+    },
+    "windows":{
+      "buildno":201703291531,
+      "url":"https://raw.githubusercontent.com/biuvpn/release/master/windows_e552.bin",
+      "hash":"e5526229053397cf45e8543921559d10fa32696d1694272993229b165c820775",
+      "changelog":"没有"
+    },
+    "linux":{
+      "buildno":201703291608,
+      "url":"https://raw.githubusercontent.com/biuvpn/release/master/linux_ed18.bin",
+      "hash":"ed18b05f1ebb2509924a1561637f635d6898ddfae1523cfbc6e1a0f5d04cbd95",
+      "changelog":"没有"
+    }
+}
