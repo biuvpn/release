@@ -7,9 +7,9 @@
       "changelog":"没有"
     },
     "windows":{
-      "buildno":201704022156,
-      "url":"https://raw.githubusercontent.com/biuvpn/release/master/windows_22a4.bin",
-      "hash":"22a4aa9c5b59c3b7ab1f12adb0e9dea1014b1dabdc2ebfa5ca75e1e2acd0eb66",
+      "buildno":201704041327,
+      "url":"https://raw.githubusercontent.com/biuvpn/release/master/windows_4832.bin",
+      "hash":"48324c1456eb16a50a9bc0841c59a217d3fdf8d40e81941ab0e06dc71934ab56",
       "changelog":"没有"
     },
     "linux":{
