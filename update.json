@@ -1,9 +1,9 @@
 {
     "name":"biuvpn",
     "darwin":{
-      "buildno":201704051152,
-      "url":"https://raw.githubusercontent.com/biuvpn/release/master/darwin_9362.bin",
-      "hash":"93627101fcd64e7f38078e7e3312f0de7e36d7bc2988111c0998a93cb9254e07",
+      "buildno":201704072316,
+      "url":"https://raw.githubusercontent.com/biuvpn/release/master/darwin_0975.bin",
+      "hash":"09756e97c48da4e0d0a2d2691cc2b95cd54f4b0160c5f7cbb6aa5ed46cb1b572",
       "changelog":"没有"
     },
     "windows":{
