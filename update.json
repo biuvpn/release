@@ -13,9 +13,9 @@
       "changelog":"没有"
     },
     "linux":{
-      "buildno":201703291608,
-      "url":"https://raw.githubusercontent.com/biuvpn/release/master/linux_ed18.bin",
-      "hash":"ed18b05f1ebb2509924a1561637f635d6898ddfae1523cfbc6e1a0f5d04cbd95",
+      "buildno":201704101331,
+      "url":"https://raw.githubusercontent.com/biuvpn/release/master/linux_8bc8.bin",
+      "hash":"8bc8bc60474665326652e1bfcfd3d332d2c5259623cdb719a28ca24bb05f5090",
       "changelog":"没有"
     }
 }
